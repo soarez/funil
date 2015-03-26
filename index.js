@@ -26,7 +26,7 @@ function add(s) {
   this.streams.push(s);
 
   if (this.started)
-    this.readFrom(s);
+    this._readFrom(s);
 }
 
 Funil.prototype._readFrom = readFrom;
