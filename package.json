@@ -1,14 +1,14 @@
 {
   "name": "funil",
   "version": "0.0.0",
-  "description": "",
+  "description": "a stream that aggegates other streams",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "'"
+    "url": "git://github.com/Soarez/funil.git"
   },
   "author": "",
   "license": "ISC"
