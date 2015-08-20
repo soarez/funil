@@ -1,7 +1,7 @@
 
 # funil
 
-a stream that aggegates other streams
+a stream that aggregates other streams
 
 ```javascript
 var Funil = require('./funil');
